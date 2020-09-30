@@ -1,0 +1,16 @@
+.icon-class-add-modal {
+  font-size: 180px;
+  display: flex;
+  top: 7rem;
+  text-align: center;
+  justify-content: center; }
+
+.header-english-modal {
+  background-color: #33b5e5;
+  color: white; }
+  .header-english-modal .modal-title {
+    font-size: 16px; }
+
+.button-class-add-modal-english {
+  background-color: #33b5e5 !important;
+  color: white !important; }

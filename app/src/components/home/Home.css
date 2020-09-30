@@ -1,0 +1,25 @@
+.background-home-page {
+  background-image: url("../images/idk.jpg");
+  position: absolute;
+  height: auto;
+  top: 0;
+  bottom: 0;
+  width: auto;
+  left: 0;
+  right: 0;
+  overflow: auto; }
+
+.themed-container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 300px !important;
+  margin-left: 350px !important;
+  width: auto; }
+
+#toTopBtn {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  bottom: 20px;
+  left: calc(50% - 20px);
+  z-index: 99; }

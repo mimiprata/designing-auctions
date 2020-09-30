@@ -1,0 +1,28 @@
+.sealed-bid {
+  &-first-info {
+    margin-bottom: 10px;
+    width: 40%;
+
+    .MuiAlert-filledInfo {
+      background-color: #3f51b5 !important;
+    }
+  }
+
+  &-second-info {
+    margin-bottom: 10px;
+    width: 45%;
+
+    .MuiAlert-filledInfo {
+      background-color: #3f51b5 !important;
+    }
+  }
+
+  &-third-info {
+    margin-bottom: 10px;
+    width: 50%;
+
+    .MuiAlert-filledInfo {
+      background-color: #f57c00 !important;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+.cards-body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  &-item{
+    margin: 10px 40px;
+  }
+  margin-left:100px;
+  margin-right:100px;
+}
+
+.my-balance{
+  text-align: right;
+  margin-right: 360px;
+}
+

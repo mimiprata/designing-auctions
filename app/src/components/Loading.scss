@@ -1,0 +1,18 @@
+.modal-container {
+  position: relative;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}
+.modal-content {
+  top: 15vh;
+}
+.loading-img {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.loading-img h4 {
+  padding-left: 10px;
+}

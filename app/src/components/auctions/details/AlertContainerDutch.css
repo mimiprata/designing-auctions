@@ -1,0 +1,17 @@
+.first-info-dutch {
+  margin-bottom: 10px;
+  width: 40%; }
+  .first-info-dutch .MuiAlert-filledInfo {
+    background-color: #2196f3 !important; }
+
+.second-info-dutch {
+  margin-bottom: 10px;
+  width: 45%; }
+  .second-info-dutch .MuiAlert-filledInfo {
+    background-color: #2196f3 !important; }
+
+.third-info-dutch {
+  margin-bottom: 10px;
+  width: 50%; }
+  .third-info-dutch .MuiAlert-filledInfo {
+    background-color: #2196f3 !important; }

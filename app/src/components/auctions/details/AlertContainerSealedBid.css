@@ -1,0 +1,17 @@
+.sealed-bid-first-info {
+  margin-bottom: 10px;
+  width: 40%; }
+  .sealed-bid-first-info .MuiAlert-filledInfo {
+    background-color: #3f51b5 !important; }
+
+.sealed-bid-second-info {
+  margin-bottom: 10px;
+  width: 45%; }
+  .sealed-bid-second-info .MuiAlert-filledInfo {
+    background-color: #3f51b5 !important; }
+
+.sealed-bid-third-info {
+  margin-bottom: 10px;
+  width: 50%; }
+  .sealed-bid-third-info .MuiAlert-filledInfo {
+    background-color: #f57c00 !important; }

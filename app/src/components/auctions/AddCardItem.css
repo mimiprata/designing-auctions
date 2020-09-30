@@ -1,0 +1,30 @@
+.add-card-class {
+  width: 300px !important;
+  height: 450px;
+  display: block !important; }
+
+.custom-title {
+  height: 56px;
+  width: 310px; }
+
+.custom-text {
+  height: 42px;
+  width: 310px; }
+
+.add-action-text {
+  color: white;
+  font-size: 38px;
+  margin-top: 6rem; }
+
+.add-auction-button {
+  background-color: white !important;
+  width: 200px !important;
+  height: 200px !important;
+  font-size: 70px !important;
+  top: 3rem; }
+
+.add-auction-button:hover {
+  transform: scale(1.3); }
+
+.add-auction-button:focus {
+  outline: none !important; }

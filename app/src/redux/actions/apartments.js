@@ -1,0 +1,19 @@
+export const FETCH_APARTMENT_DETAILS = 'FETCH_MY_APARTMENT_DETAILS';
+export const FETCH_APARTMENT_DETAILS_FULFILLED = `${FETCH_APARTMENT_DETAILS}_FULFILLED`;
+export const FETCH_APARTMENT_DETAILS_REJECTED = `${FETCH_APARTMENT_DETAILS}_REJECTED`;
+export const FETCH_APARTMENT_DETAILS_PENDING = `${FETCH_APARTMENT_DETAILS}_PENDING`;
+
+export const FETCH_MY_APARTMENTS = 'FETCH_MY_APARTMENTS';
+export const FETCH_MY_APARTMENTS_FULFILLED = `${FETCH_MY_APARTMENTS}_FULFILLED`;
+export const FETCH_MY_APARTMENTS_REJECTED = `${FETCH_MY_APARTMENTS}_REJECTED`;
+
+
+export const fetchApartmentDetails = (username, tokenId) => ({
+    type: FETCH_APARTMENT_DETAILS,
+    payload: {username, tokenId}
+});
+
+export const fetchMyApartments = (username) =>({
+    type: FETCH_MY_APARTMENTS,
+    payload: {username}
+});

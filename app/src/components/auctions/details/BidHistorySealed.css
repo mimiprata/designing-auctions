@@ -1,0 +1,10 @@
+.bid-history-container {
+  display: flex;
+  align-items: center;
+  width: 100%; }
+
+.verify-button {
+  height: 35px; }
+
+.icon-green {
+  color: green; }

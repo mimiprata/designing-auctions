@@ -1,0 +1,13 @@
+.cards-body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  &-item{
+    margin: 10px 40px;
+  }
+}
+
+.card-class{
+  width:300px!important;
+  height: 450px;
+}

@@ -1,0 +1,19 @@
+.type-of-auction {
+  height: 390px;
+  position: relative; }
+  .type-of-auction-text {
+    font-size: 18px; }
+  .type-of-auction-button {
+    position: absolute;
+    bottom: 5px;
+    right: 10px; }
+  .type-of-auction-icon {
+    font-size: 34px; }
+    .type-of-auction-icon :hover {
+      display: inline-block;
+      vertical-align: middle;
+      -webkit-transform: perspective(1px) translateZ(0);
+      transform: perspective(1px) translateZ(0);
+      box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+      -webkit-transition-duration: 0.3s;
+      transition-duration: 0.3s; }

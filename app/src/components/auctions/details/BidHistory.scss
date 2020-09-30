@@ -1,0 +1,17 @@
+.bid-history-container {
+  display: flex;
+  align-items: center;
+  width:100%;
+  &-left{
+      flex: 0 0 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+
+}
+  &-right{
+    width: 100% !important;
+    height: auto !important;
+  }
+}
